@@ -20,7 +20,7 @@ button{
     color: white;
     border-radius: 20px;
     font-size: 1.5rem;
-    transition:background 600ms;
+    transition:background 800ms;
 }
 
 button:hover{
